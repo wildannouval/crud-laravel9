@@ -16,7 +16,8 @@
             <div class="col-md-12">
                 <div class="card border-0 shadow rounded">
                     <div class="card-body">
-                        <a href="{{route('posts.create')}}" class="btn btn-md btn-success md-3">Tambah Post</a>    
+                        <h2 class="text-center">CRUD Laravel 9 Sederhana</h2>
+                        <a href="{{route('posts.create')}}" class="btn btn-md btn-success md-3 mb-2">Tambah Post</a>    
                         <table class="table table-bordered">
                             <thead>
                                 <tr>

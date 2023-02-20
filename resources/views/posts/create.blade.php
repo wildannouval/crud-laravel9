@@ -66,6 +66,7 @@
 
     <script>
         CKEDITOR.replace( 'content' );
+        CKEDITOR.config.autoParagraph = false;
     </script>
 </body>
 </html>
